@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 CAMERA = "iphone"
-TARGET = "a4"
-PATTERN = "chess"
+TARGET = "tab"
+PATTERN = "acircle"
 
 RESULTS_DIR = Path("calib_results")
 
